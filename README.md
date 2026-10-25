@@ -95,4 +95,4 @@ Checked on 24 October 2026:
 - Cart tested: an empty cart shows the empty state, and shop filters show the right products (for example 3 Serums, 14 for All). Adding from a card and from a product page with quantity 3 updates the header count. The cart total is ₦52,000 for 1 Soft Glow Cleanser plus 3 Dew Drop Hydrating Serum. Increase, decrease and remove update the totals correctly. The cart survives a page refresh. Quantity stops at 10. Checkout shows only the demo notice, and the page has no payment fields.
 - The newsletter demo shows its "nothing was sent" notice.
 - The mobile menu opens and closes (including with the Escape key) and closes after navigating.
-- The footer on every page reads "Concept Project by NeduHub" and links to https://neduhub.vercel.app.
+- The footer on every page reads "Concept Project by NeduHub" and links to https://www.neduhub.com.

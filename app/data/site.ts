@@ -11,7 +11,7 @@ export const site = {
     { label: "Instagram", handle: "Instagram handle (placeholder)" },
     { label: "Pinterest", handle: "Pinterest handle (placeholder)" },
   ],
-  neduhubUrl: "https://neduhub.vercel.app",
+  neduhubUrl: "https://www.neduhub.com",
 };
 
 export const navLinks = [
